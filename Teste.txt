@@ -1,0 +1,6 @@
+Este é um arquivo de teste
+eu estou escrevendo em outra linha
+
+eu pulei uma linha
+
+agora vou pular outra linha

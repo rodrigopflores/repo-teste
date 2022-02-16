@@ -7,7 +7,7 @@ agora vou pular outra linha
 
 linha criada na nova versao
 
-linha 10 conflito segunda versao
+linha 10 conflito primeira versao
 
 nova branch
 
